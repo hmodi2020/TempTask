@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the quick brown fox jumps over the lazy lamp1.
+=======
+the quick brown fox jumps over the lazy dog 1.
+>>>>>>> b1
